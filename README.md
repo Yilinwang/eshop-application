@@ -1,2 +1,2 @@
-# linda.yilin-gmail.com
+# eshop-application
 eshop application
